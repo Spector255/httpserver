@@ -1,0 +1,14 @@
+{
+    "action":"create",
+    "object":"Teacher",
+    "data":{
+        "subject":"Russian",
+        "salary":549,
+        "classroom": "56"
+        "person":{
+            "name":"Lubov",
+            "surname":"Zemcuzina",
+            "personalCode":"123456-78910"
+        }
+    }
+}

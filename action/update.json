@@ -1,0 +1,15 @@
+{
+    "action":"update",
+    "object":"Teacher",
+    "data":{
+        "id":"001",
+        "subject":"PE",
+        "salary":459,
+        "classroom":"Sport-Z",
+        "person":{
+            "name":"Valda",
+            "surname":"Kublicka",
+            "personalCode":"109876-54321"
+        }
+    }
+}
